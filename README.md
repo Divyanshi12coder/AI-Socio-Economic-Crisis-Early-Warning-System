@@ -33,3 +33,35 @@ AI-Socio-Economic-Crisis-Early-Warning-System/
 │── dashboards/          # Visualization and reporting tools
 │── docs/                # Documentation
 │── README.md            # Project overview
+
+---
+
+## 🚀 Features
+- **Data Ingestion:** Collects socio-economic data from multiple sources  
+- **Preprocessing:** Cleans, normalizes, and structures data  
+- **Anomaly Detection:** Identifies unusual patterns in indicators  
+- **Forecasting Models:** Predicts potential crises using ML/AI  
+- **Visualization:** Interactive dashboards for stakeholders  
+- **Alerts:** Automated notifications for early warnings  
+
+---
+
+## 📊 Example Use Cases
+- Predicting unemployment spikes in vulnerable regions  
+- Detecting early signs of food insecurity  
+- Monitoring inflation trends for economic stability  
+- Forecasting migration surges due to socio-political unrest  
+
+---
+
+## 🧪 Getting Started
+### Prerequisites
+- Python 3.9+  
+- Git  
+- Docker (optional)  
+
+### Installation
+```bash
+git clone https://github.com/Divyanshi12coder/AI-Socio-Economic-Crisis-Early-Warning-System.git
+cd AI-Socio-Economic-Crisis-Early-Warning-System
+pip install -r requirements.txt
