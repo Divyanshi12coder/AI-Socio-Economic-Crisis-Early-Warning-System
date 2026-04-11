@@ -25,3 +25,11 @@ The **AI-Socio-Economic-Crisis-Early-Warning-System** leverages machine learning
 ---
 
 ## 📂 Project Structure
+AI-Socio-Economic-Crisis-Early-Warning-System/
+│── data/                # Raw and processed datasets
+│── notebooks/           # Jupyter notebooks for exploration
+│── src/                 # Source code (models, preprocessing, utils)
+│── models/              # Trained models and checkpoints
+│── dashboards/          # Visualization and reporting tools
+│── docs/                # Documentation
+│── README.md            # Project overview
