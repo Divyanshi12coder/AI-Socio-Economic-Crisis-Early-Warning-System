@@ -60,6 +60,10 @@ AI-Socio-Economic-Crisis-Early-Warning-System/
 - Git  
 - Docker (optional)  
 
+### Deployment Link
+http://localhost:3000
+
+
 ### Installation
 ```bash
 git clone https://github.com/Divyanshi12coder/AI-Socio-Economic-Crisis-Early-Warning-System.git
