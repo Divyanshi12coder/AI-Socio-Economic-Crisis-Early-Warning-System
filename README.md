@@ -10,7 +10,7 @@ The **AI-Socio-Economic-Crisis-Early-Warning-System** leverages machine learning
 - Detect anomalies and patterns signaling instability
 - Forecast potential crises using predictive modeling
 - Provide actionable insights via dashboards and reports
-- Support decision-making for governments and organizations
+- Support decision-making for governments and organizations.
 
 ---
 
